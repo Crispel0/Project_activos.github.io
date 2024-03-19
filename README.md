@@ -1,2 +1,2 @@
 # Project_activos.github.io
-Project_Active 
+Projecto que ocnsiste en una pagina web que controla una cantidad proporcianda de activos por medio de credenciales que van a atener los diferentes tipos de usuarios que van a a poder entrar, donde se registraran activos de software y hardware, creacion de reportes por medio de los acitvos que fueron registrados, visualizacion de los activos por medio de graficos como un dashboard, cambio de contrasena "cuando el usuario ingreso con sus credenciales" 
